@@ -1,0 +1,680 @@
+[INFO ] 2025-01-28 20:10:29.807 [pool-2-thread-1] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:10:29.824 [pool-2-thread-1] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:10:29.824 [pool-2-thread-1] Port - Unloaded 23 containers to port. Current load: 23
+[INFO ] 2025-01-28 20:10:29.825 [pool-2-thread-1] Ship - Ship unloaded 23 containers and departed
+[INFO ] 2025-01-28 20:10:29.825 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:10:29.825 [pool-2-thread-3] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:10:29.825 [pool-2-thread-3] Port - Loaded 22 containers from port. Current load: 1
+[INFO ] 2025-01-28 20:10:29.826 [pool-2-thread-3] Ship - Ship loaded 22 containers and departed
+[INFO ] 2025-01-28 20:10:29.826 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:10:29.826 [pool-2-thread-2] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:10:29.826 [pool-2-thread-2] Port - Not enough containers to load. Current load: 1
+[INFO ] 2025-01-28 20:10:29.828 [pool-2-thread-2] Port - Unloaded 51 containers to port. Current load: 52
+[INFO ] 2025-01-28 20:10:29.828 [pool-2-thread-2] Ship - Ship unloaded 51 containers and departed
+[INFO ] 2025-01-28 20:10:29.829 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:10:29.829 [pool-2-thread-5] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:10:29.830 [pool-2-thread-5] Port - Loaded 12 containers from port. Current load: 40
+[INFO ] 2025-01-28 20:10:29.830 [pool-2-thread-5] Ship - Ship loaded 12 containers and departed
+[INFO ] 2025-01-28 20:10:29.830 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:10:29.830 [pool-2-thread-4] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:10:29.832 [pool-2-thread-4] Port - Not enough containers to load. Current load: 40
+[INFO ] 2025-01-28 20:10:29.832 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 116
+[INFO ] 2025-01-28 20:10:29.832 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:10:29.833 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:10:29.834 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:22:13.205 [main] FileReader - Port capacity: 500, Dock count: 1
+[INFO ] 2025-01-28 20:22:13.210 [main] FileReader - Total ships: 5
+[INFO ] 2025-01-28 20:22:13.212 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:22:13.212 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:22:13.212 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:22:13.212 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:22:13.212 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:22:13.219 [pool-2-thread-3] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:22:13.220 [pool-2-thread-3] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:22:13.221 [pool-2-thread-3] Port - Unloaded 22 containers to port. Current load: 22
+[INFO ] 2025-01-28 20:22:13.221 [pool-2-thread-3] Ship - Ship unloaded 22 containers and departed
+[INFO ] 2025-01-28 20:22:13.221 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:22:13.221 [pool-2-thread-1] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:22:13.222 [pool-2-thread-1] Port - Not enough containers to load. Current load: 22
+[INFO ] 2025-01-28 20:22:13.222 [pool-2-thread-1] Port - Unloaded 23 containers to port. Current load: 45
+[INFO ] 2025-01-28 20:22:13.222 [pool-2-thread-1] Ship - Ship unloaded 23 containers and departed
+[INFO ] 2025-01-28 20:22:13.222 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:22:13.222 [pool-2-thread-2] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:22:13.223 [pool-2-thread-2] Port - Not enough containers to load. Current load: 45
+[INFO ] 2025-01-28 20:22:13.223 [pool-2-thread-2] Port - Unloaded 51 containers to port. Current load: 96
+[INFO ] 2025-01-28 20:22:13.223 [pool-2-thread-2] Ship - Ship unloaded 51 containers and departed
+[INFO ] 2025-01-28 20:22:13.223 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:22:13.223 [pool-2-thread-4] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:22:13.224 [pool-2-thread-4] Port - Loaded 76 containers from port. Current load: 20
+[INFO ] 2025-01-28 20:22:13.224 [pool-2-thread-4] Ship - Ship loaded 76 containers and departed
+[INFO ] 2025-01-28 20:22:13.224 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:22:13.224 [pool-2-thread-5] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:22:13.225 [pool-2-thread-5] Port - Loaded 12 containers from port. Current load: 8
+[INFO ] 2025-01-28 20:22:13.225 [pool-2-thread-5] Ship - Ship loaded 12 containers and departed
+[INFO ] 2025-01-28 20:22:13.225 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:22:13.225 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:22:34.118 [main] FileReader - Port capacity: 500, Dock count: 12
+[INFO ] 2025-01-28 20:22:34.122 [main] FileReader - Total ships: 5
+[INFO ] 2025-01-28 20:22:34.123 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:22:34.123 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:22:34.123 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:22:34.123 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:22:34.123 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:22:34.129 [pool-2-thread-5] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:22:34.129 [pool-2-thread-1] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:22:34.129 [pool-2-thread-3] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:22:34.130 [pool-2-thread-5] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:22:34.129 [pool-2-thread-2] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:22:34.130 [pool-2-thread-5] Port - Unloaded 12 containers to port. Current load: 12
+[INFO ] 2025-01-28 20:22:34.129 [pool-2-thread-4] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:22:34.130 [pool-2-thread-5] Ship - Ship unloaded 12 containers and departed
+[WARN ] 2025-01-28 20:22:34.130 [pool-2-thread-1] Port - Not enough containers to load. Current load: 12
+[INFO ] 2025-01-28 20:22:34.130 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:22:34.130 [pool-2-thread-1] Port - Unloaded 23 containers to port. Current load: 35
+[INFO ] 2025-01-28 20:22:34.130 [pool-2-thread-1] Ship - Ship unloaded 23 containers and departed
+[INFO ] 2025-01-28 20:22:34.130 [pool-2-thread-3] Port - Loaded 22 containers from port. Current load: 13
+[INFO ] 2025-01-28 20:22:34.131 [pool-2-thread-3] Ship - Ship loaded 22 containers and departed
+[INFO ] 2025-01-28 20:22:34.131 [pool-2-thread-1] Port - Dock released by a ship
+[WARN ] 2025-01-28 20:22:34.131 [pool-2-thread-2] Port - Not enough containers to load. Current load: 13
+[INFO ] 2025-01-28 20:22:34.131 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:22:34.131 [pool-2-thread-2] Port - Unloaded 51 containers to port. Current load: 64
+[INFO ] 2025-01-28 20:22:34.131 [pool-2-thread-2] Ship - Ship unloaded 51 containers and departed
+[WARN ] 2025-01-28 20:22:34.131 [pool-2-thread-4] Port - Not enough containers to load. Current load: 64
+[INFO ] 2025-01-28 20:22:34.131 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:22:34.131 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 140
+[INFO ] 2025-01-28 20:22:34.131 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:22:34.131 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:22:34.132 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:28:26.717 [main] FileReader - Port capacity: 500, Dock count: 12
+[INFO ] 2025-01-28 20:28:26.722 [main] FileReader - Total ships: 5
+[INFO ] 2025-01-28 20:28:26.723 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:28:26.724 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:28:26.724 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:28:26.724 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:28:26.724 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:28:26.730 [pool-2-thread-2] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:28:26.731 [pool-2-thread-2] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:28:26.730 [pool-2-thread-1] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:28:26.731 [pool-2-thread-2] Port - Unloaded 51 containers to port. Current load: 51
+[INFO ] 2025-01-28 20:28:26.730 [pool-2-thread-4] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:28:26.731 [pool-2-thread-2] Ship - Ship unloaded 51 containers and departed
+[INFO ] 2025-01-28 20:28:26.730 [pool-2-thread-3] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:28:26.731 [pool-2-thread-5] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:28:26.731 [pool-2-thread-1] Port - Loaded 23 containers from port. Current load: 28
+[INFO ] 2025-01-28 20:28:26.732 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:28:26.732 [pool-2-thread-1] Ship - Ship loaded 23 containers and departed
+[INFO ] 2025-01-28 20:28:26.732 [pool-2-thread-1] Port - Dock released by a ship
+[WARN ] 2025-01-28 20:28:26.732 [pool-2-thread-4] Port - Not enough containers to load. Current load: 28
+[INFO ] 2025-01-28 20:28:26.732 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 104
+[INFO ] 2025-01-28 20:28:26.732 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:28:26.732 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:28:26.732 [pool-2-thread-3] Port - Loaded 22 containers from port. Current load: 82
+[INFO ] 2025-01-28 20:28:26.733 [pool-2-thread-3] Ship - Ship loaded 22 containers and departed
+[INFO ] 2025-01-28 20:28:26.733 [pool-2-thread-5] Port - Loaded 12 containers from port. Current load: 70
+[INFO ] 2025-01-28 20:28:26.733 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:28:26.733 [pool-2-thread-5] Ship - Ship loaded 12 containers and departed
+[INFO ] 2025-01-28 20:28:26.733 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:28:26.733 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:33:10.392 [main] FileReader - Port capacity: 500, Dock count: 12
+[INFO ] 2025-01-28 20:33:10.397 [main] FileReader - Total ships: 5
+[INFO ] 2025-01-28 20:33:10.398 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:33:10.398 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:33:10.398 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:33:10.398 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:33:10.399 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:33:10.404 [pool-2-thread-1] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:33:10.404 [pool-2-thread-2] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:33:10.404 [pool-2-thread-3] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:33:10.404 [pool-2-thread-5] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:33:10.405 [pool-2-thread-4] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:33:10.618 [pool-2-thread-5] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:33:10.618 [pool-2-thread-3] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:33:10.618 [pool-2-thread-4] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:33:10.618 [pool-2-thread-2] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:33:10.619 [pool-2-thread-1] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:33:10.819 [pool-2-thread-5] Port - Unloaded 12 containers to port. Current load: 12
+[INFO ] 2025-01-28 20:33:10.819 [pool-2-thread-5] Ship - Ship unloaded 12 containers and departed
+[INFO ] 2025-01-28 20:33:10.821 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 88
+[INFO ] 2025-01-28 20:33:10.821 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:33:10.821 [pool-2-thread-3] Port - Unloaded 22 containers to port. Current load: 110
+[INFO ] 2025-01-28 20:33:10.821 [pool-2-thread-3] Ship - Ship unloaded 22 containers and departed
+[INFO ] 2025-01-28 20:33:10.834 [pool-2-thread-2] Port - Unloaded 51 containers to port. Current load: 161
+[INFO ] 2025-01-28 20:33:10.834 [pool-2-thread-2] Ship - Ship unloaded 51 containers and departed
+[INFO ] 2025-01-28 20:33:10.834 [pool-2-thread-1] Port - Unloaded 23 containers to port. Current load: 184
+[INFO ] 2025-01-28 20:33:10.834 [pool-2-thread-1] Ship - Ship unloaded 23 containers and departed
+[INFO ] 2025-01-28 20:33:11.021 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:33:11.035 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:33:11.035 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:33:11.035 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:33:11.035 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:33:11.035 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:33:24.962 [main] FileReader - Port capacity: 500, Dock count: 12
+[INFO ] 2025-01-28 20:33:24.967 [main] FileReader - Total ships: 5
+[INFO ] 2025-01-28 20:33:24.968 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:33:24.968 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:33:24.968 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:33:24.968 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:33:24.969 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:33:24.975 [pool-2-thread-1] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:33:24.975 [pool-2-thread-2] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:33:24.975 [pool-2-thread-4] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:33:24.975 [pool-2-thread-3] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:33:24.976 [pool-2-thread-5] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:33:25.483 [pool-2-thread-1] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:33:25.483 [pool-2-thread-4] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:33:25.483 [pool-2-thread-3] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:33:25.484 [pool-2-thread-5] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:33:25.484 [pool-2-thread-2] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:33:25.992 [pool-2-thread-1] Port - Unloaded 23 containers to port. Current load: 23
+[INFO ] 2025-01-28 20:33:25.992 [pool-2-thread-1] Ship - Ship unloaded 23 containers and departed
+[INFO ] 2025-01-28 20:33:25.992 [pool-2-thread-2] Port - Unloaded 51 containers to port. Current load: 74
+[INFO ] 2025-01-28 20:33:25.992 [pool-2-thread-2] Ship - Ship unloaded 51 containers and departed
+[INFO ] 2025-01-28 20:33:25.992 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 150
+[INFO ] 2025-01-28 20:33:25.992 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:33:25.992 [pool-2-thread-3] Port - Unloaded 22 containers to port. Current load: 172
+[INFO ] 2025-01-28 20:33:25.992 [pool-2-thread-3] Ship - Ship unloaded 22 containers and departed
+[INFO ] 2025-01-28 20:33:25.993 [pool-2-thread-5] Port - Unloaded 12 containers to port. Current load: 184
+[INFO ] 2025-01-28 20:33:25.993 [pool-2-thread-5] Ship - Ship unloaded 12 containers and departed
+[INFO ] 2025-01-28 20:33:26.503 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:33:26.503 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:33:26.503 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:33:26.503 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:33:26.503 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:33:26.504 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:34:05.275 [main] FileReader - Port capacity: 500, Dock count: 12
+[INFO ] 2025-01-28 20:34:05.280 [main] FileReader - Total ships: 5
+[INFO ] 2025-01-28 20:34:05.281 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:34:05.281 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:34:05.281 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:34:05.281 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:34:05.281 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:34:05.287 [pool-2-thread-3] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:34:05.287 [pool-2-thread-4] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:34:05.287 [pool-2-thread-1] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:34:05.287 [pool-2-thread-2] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:34:05.287 [pool-2-thread-5] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:34:07.298 [pool-2-thread-2] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:34:07.298 [pool-2-thread-1] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:34:07.298 [pool-2-thread-4] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:34:07.299 [pool-2-thread-3] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:34:07.299 [pool-2-thread-5] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:34:09.299 [pool-2-thread-2] Port - Unloaded 51 containers to port. Current load: 51
+[INFO ] 2025-01-28 20:34:09.299 [pool-2-thread-2] Ship - Ship unloaded 51 containers and departed
+[INFO ] 2025-01-28 20:34:09.301 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 127
+[INFO ] 2025-01-28 20:34:09.301 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:34:09.301 [pool-2-thread-1] Port - Unloaded 23 containers to port. Current load: 150
+[INFO ] 2025-01-28 20:34:09.301 [pool-2-thread-1] Ship - Ship unloaded 23 containers and departed
+[INFO ] 2025-01-28 20:34:09.314 [pool-2-thread-5] Port - Unloaded 12 containers to port. Current load: 162
+[INFO ] 2025-01-28 20:34:09.314 [pool-2-thread-5] Ship - Ship unloaded 12 containers and departed
+[INFO ] 2025-01-28 20:34:09.314 [pool-2-thread-3] Port - Unloaded 22 containers to port. Current load: 184
+[INFO ] 2025-01-28 20:34:09.314 [pool-2-thread-3] Ship - Ship unloaded 22 containers and departed
+[INFO ] 2025-01-28 20:34:11.302 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:34:11.309 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:34:11.309 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:34:11.324 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:34:11.324 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:34:11.324 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:34:55.539 [main] FileReader - Port capacity: 500, Dock count: 12
+[INFO ] 2025-01-28 20:34:55.545 [main] FileReader - Total ships: 5
+[INFO ] 2025-01-28 20:34:55.547 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:34:55.547 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:34:55.547 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:34:55.547 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:34:55.547 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:34:55.556 [pool-2-thread-1] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:34:55.556 [pool-2-thread-4] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:34:55.557 [pool-2-thread-1] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:34:55.556 [pool-2-thread-5] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:34:55.557 [pool-2-thread-1] Port - Unloaded 23 containers to port. Current load: 23
+[WARN ] 2025-01-28 20:34:55.558 [pool-2-thread-4] Port - Not enough containers to load. Current load: 23
+[INFO ] 2025-01-28 20:34:55.558 [pool-2-thread-1] Ship - Ship unloaded 23 containers and departed
+[INFO ] 2025-01-28 20:34:55.558 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:34:55.558 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 99
+[INFO ] 2025-01-28 20:34:55.558 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:34:55.558 [pool-2-thread-5] Port - Loaded 12 containers from port. Current load: 87
+[INFO ] 2025-01-28 20:34:55.558 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:34:55.558 [pool-2-thread-5] Ship - Ship loaded 12 containers and departed
+[INFO ] 2025-01-28 20:34:55.559 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:34:55.559 [pool-2-thread-3] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:34:55.560 [pool-2-thread-3] Port - Loaded 22 containers from port. Current load: 65
+[INFO ] 2025-01-28 20:34:55.561 [pool-2-thread-3] Ship - Ship loaded 22 containers and departed
+[INFO ] 2025-01-28 20:34:55.561 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:34:55.560 [pool-2-thread-2] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:34:55.562 [pool-2-thread-2] Port - Loaded 51 containers from port. Current load: 14
+[INFO ] 2025-01-28 20:34:55.562 [pool-2-thread-2] Ship - Ship loaded 51 containers and departed
+[INFO ] 2025-01-28 20:34:55.562 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:34:55.563 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:36:45.397 [main] FileReader - Port capacity: 500, Dock count: 12
+[INFO ] 2025-01-28 20:36:45.402 [main] FileReader - Total ships: 5
+[INFO ] 2025-01-28 20:36:45.403 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:36:45.403 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:36:45.403 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:36:45.403 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:36:45.403 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:36:45.409 [pool-2-thread-2] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:36:45.409 [pool-2-thread-4] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:36:45.409 [pool-2-thread-3] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:36:45.409 [pool-2-thread-1] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:36:45.409 [pool-2-thread-5] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:36:47.411 [pool-2-thread-2] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:36:47.411 [pool-2-thread-4] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:36:47.421 [pool-2-thread-3] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:36:47.421 [pool-2-thread-5] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:36:47.421 [pool-2-thread-1] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:36:49.416 [pool-2-thread-2] Port - Unloaded 51 containers to port. Current load: 51
+[INFO ] 2025-01-28 20:36:49.416 [pool-2-thread-2] Ship - Ship unloaded 51 containers and departed
+[INFO ] 2025-01-28 20:36:49.416 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 127
+[INFO ] 2025-01-28 20:36:49.416 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:36:49.432 [pool-2-thread-1] Port - Unloaded 23 containers to port. Current load: 150
+[INFO ] 2025-01-28 20:36:49.432 [pool-2-thread-5] Port - Unloaded 12 containers to port. Current load: 162
+[INFO ] 2025-01-28 20:36:49.432 [pool-2-thread-1] Ship - Ship unloaded 23 containers and departed
+[INFO ] 2025-01-28 20:36:49.432 [pool-2-thread-5] Ship - Ship unloaded 12 containers and departed
+[INFO ] 2025-01-28 20:36:49.432 [pool-2-thread-3] Port - Unloaded 22 containers to port. Current load: 184
+[INFO ] 2025-01-28 20:36:49.432 [pool-2-thread-3] Ship - Ship unloaded 22 containers and departed
+[INFO ] 2025-01-28 20:36:51.425 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:36:51.425 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:36:51.434 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:36:51.441 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:36:51.441 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:36:51.441 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:37:28.742 [main] FileReader - Port capacity: 500, Dock count: 12
+[INFO ] 2025-01-28 20:37:28.746 [main] FileReader - Total ships: 5
+[INFO ] 2025-01-28 20:37:28.747 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:37:28.747 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:37:28.747 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:37:28.748 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:37:28.748 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:37:28.753 [pool-2-thread-2] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:37:28.753 [pool-2-thread-1] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:37:28.753 [pool-2-thread-3] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:37:28.753 [pool-2-thread-4] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:37:28.753 [pool-2-thread-5] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:37:30.757 [pool-2-thread-2] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:37:30.757 [pool-2-thread-4] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:37:30.757 [pool-2-thread-5] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:37:30.757 [pool-2-thread-1] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:37:30.758 [pool-2-thread-3] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:37:32.763 [pool-2-thread-2] Port - Unloaded 51 containers to port. Current load: 51
+[INFO ] 2025-01-28 20:37:32.763 [pool-2-thread-2] Ship - Ship unloaded 51 containers and departed
+[INFO ] 2025-01-28 20:37:32.763 [pool-2-thread-5] Port - Unloaded 12 containers to port. Current load: 63
+[INFO ] 2025-01-28 20:37:32.763 [pool-2-thread-5] Ship - Ship unloaded 12 containers and departed
+[INFO ] 2025-01-28 20:37:32.763 [pool-2-thread-1] Port - Unloaded 23 containers to port. Current load: 86
+[INFO ] 2025-01-28 20:37:32.763 [pool-2-thread-1] Ship - Ship unloaded 23 containers and departed
+[INFO ] 2025-01-28 20:37:32.763 [pool-2-thread-3] Port - Unloaded 22 containers to port. Current load: 108
+[INFO ] 2025-01-28 20:37:32.763 [pool-2-thread-3] Ship - Ship unloaded 22 containers and departed
+[INFO ] 2025-01-28 20:37:32.763 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 184
+[INFO ] 2025-01-28 20:37:32.763 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:37:34.776 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:37:34.776 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:37:34.776 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:37:34.776 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:37:34.776 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:37:34.777 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:39:54.006 [main] FileReader - Port capacity: 500, Dock count: 12
+[INFO ] 2025-01-28 20:39:54.011 [main] FileReader - Total ships: 5
+[INFO ] 2025-01-28 20:39:54.012 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:39:54.012 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:39:54.013 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:39:54.013 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:39:54.013 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:39:54.018 [pool-2-thread-2] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:39:54.018 [pool-2-thread-1] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:39:54.019 [pool-2-thread-3] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:39:54.018 [pool-2-thread-4] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:39:54.019 [pool-2-thread-5] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:39:56.021 [pool-2-thread-3] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:39:56.021 [pool-2-thread-1] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:39:56.021 [pool-2-thread-5] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:39:56.021 [pool-2-thread-4] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:39:56.021 [pool-2-thread-2] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:39:58.035 [pool-2-thread-2] Port - Unloaded 51 containers to port. Current load: 51
+[INFO ] 2025-01-28 20:39:58.035 [pool-2-thread-2] Ship - Ship unloaded 51 containers and departed
+[INFO ] 2025-01-28 20:39:58.035 [pool-2-thread-3] Port - Unloaded 22 containers to port. Current load: 73
+[INFO ] 2025-01-28 20:39:58.035 [pool-2-thread-3] Ship - Ship unloaded 22 containers and departed
+[INFO ] 2025-01-28 20:39:58.035 [pool-2-thread-1] Port - Unloaded 23 containers to port. Current load: 96
+[INFO ] 2025-01-28 20:39:58.035 [pool-2-thread-1] Ship - Ship unloaded 23 containers and departed
+[INFO ] 2025-01-28 20:39:58.035 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 172
+[INFO ] 2025-01-28 20:39:58.036 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:39:58.036 [pool-2-thread-5] Port - Unloaded 12 containers to port. Current load: 184
+[INFO ] 2025-01-28 20:39:58.036 [pool-2-thread-5] Ship - Ship unloaded 12 containers and departed
+[INFO ] 2025-01-28 20:40:00.037 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:40:00.049 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:40:00.049 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:40:00.049 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:40:00.049 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:40:00.049 [main] Main - Simulation finished
+[ERROR] 2025-01-28 20:42:21.096 [main] FileReader - Error reading port configuration: For input string: "# Port capacity"
+[INFO ] 2025-01-28 20:43:50.513 [main] FileReader - Port capacity: 500, Dock count: 12
+[INFO ] 2025-01-28 20:43:50.518 [main] FileReader - Total ships: 5
+[INFO ] 2025-01-28 20:43:50.520 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:43:50.520 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:43:50.520 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:43:50.520 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:43:50.521 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:43:50.527 [pool-2-thread-1] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:43:50.527 [pool-2-thread-5] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:43:50.528 [pool-2-thread-2] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:43:50.527 [pool-2-thread-3] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:43:50.528 [pool-2-thread-4] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:43:52.528 [pool-2-thread-1] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:43:52.529 [pool-2-thread-2] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:43:52.529 [pool-2-thread-3] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:43:52.530 [pool-2-thread-5] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:43:52.531 [pool-2-thread-4] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:43:54.529 [pool-2-thread-1] Port - Unloaded 23 containers to port. Current load: 23
+[INFO ] 2025-01-28 20:43:54.529 [pool-2-thread-1] Ship - Ship unloaded 23 containers and departed
+[INFO ] 2025-01-28 20:43:54.530 [pool-2-thread-3] Port - Unloaded 22 containers to port. Current load: 45
+[INFO ] 2025-01-28 20:43:54.530 [pool-2-thread-2] Port - Unloaded 51 containers to port. Current load: 96
+[INFO ] 2025-01-28 20:43:54.530 [pool-2-thread-3] Ship - Ship unloaded 22 containers and departed
+[INFO ] 2025-01-28 20:43:54.530 [pool-2-thread-2] Ship - Ship unloaded 51 containers and departed
+[INFO ] 2025-01-28 20:43:54.531 [pool-2-thread-5] Port - Unloaded 12 containers to port. Current load: 108
+[INFO ] 2025-01-28 20:43:54.531 [pool-2-thread-5] Ship - Ship unloaded 12 containers and departed
+[INFO ] 2025-01-28 20:43:54.541 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 184
+[INFO ] 2025-01-28 20:43:54.541 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:43:56.544 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:43:56.544 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:43:56.544 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:43:56.544 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:43:56.544 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:43:56.544 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:47:56.561 [main] FileReader - Port capacity: 500, Dock count: 12
+[INFO ] 2025-01-28 20:47:56.567 [main] FileReader - Created ship with capacity: 5
+[INFO ] 2025-01-28 20:47:56.568 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:47:56.568 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:47:56.568 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:47:56.568 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:47:56.568 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:47:56.568 [main] FileReader - Total ships created: 6
+[INFO ] 2025-01-28 20:47:56.575 [pool-2-thread-5] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:47:56.575 [pool-2-thread-6] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:47:56.574 [pool-2-thread-2] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:47:56.574 [pool-2-thread-1] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:47:56.575 [pool-2-thread-3] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:47:56.574 [pool-2-thread-4] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:47:58.582 [pool-2-thread-3] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:47:58.582 [pool-2-thread-6] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:47:58.582 [pool-2-thread-5] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:47:58.582 [pool-2-thread-2] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:47:58.583 [pool-2-thread-4] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:47:58.583 [pool-2-thread-1] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:48:00.593 [pool-2-thread-6] Port - Unloaded 12 containers to port. Current load: 12
+[INFO ] 2025-01-28 20:48:00.593 [pool-2-thread-6] Ship - Ship unloaded 12 containers and departed
+[INFO ] 2025-01-28 20:48:00.593 [pool-2-thread-1] Port - Unloaded 5 containers to port. Current load: 17
+[INFO ] 2025-01-28 20:48:00.593 [pool-2-thread-1] Ship - Ship unloaded 5 containers and departed
+[INFO ] 2025-01-28 20:48:00.593 [pool-2-thread-2] Port - Unloaded 23 containers to port. Current load: 40
+[INFO ] 2025-01-28 20:48:00.593 [pool-2-thread-2] Ship - Ship unloaded 23 containers and departed
+[INFO ] 2025-01-28 20:48:00.593 [pool-2-thread-5] Port - Unloaded 76 containers to port. Current load: 116
+[INFO ] 2025-01-28 20:48:00.594 [pool-2-thread-4] Port - Unloaded 22 containers to port. Current load: 138
+[INFO ] 2025-01-28 20:48:00.594 [pool-2-thread-5] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:48:00.594 [pool-2-thread-4] Ship - Ship unloaded 22 containers and departed
+[INFO ] 2025-01-28 20:48:00.594 [pool-2-thread-3] Port - Unloaded 51 containers to port. Current load: 189
+[INFO ] 2025-01-28 20:48:00.594 [pool-2-thread-3] Ship - Ship unloaded 51 containers and departed
+[INFO ] 2025-01-28 20:48:02.603 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:02.603 [pool-2-thread-6] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:02.603 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:02.603 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:02.603 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:02.603 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:02.603 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:48:22.485 [main] FileReader - Port capacity: 500, Dock count: 12
+[INFO ] 2025-01-28 20:48:22.491 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:48:22.491 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:48:22.492 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:48:22.492 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:48:22.492 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:48:22.492 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:22.492 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:22.492 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:22.492 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:22.493 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:22.493 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:22.493 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:22.493 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:22.493 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:22.493 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:22.493 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:22.493 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:22.494 [main] FileReader - Total ships created: 17
+[INFO ] 2025-01-28 20:48:22.500 [pool-2-thread-7] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:22.500 [pool-2-thread-1] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:22.501 [pool-2-thread-6] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:22.501 [pool-2-thread-2] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:22.501 [pool-2-thread-4] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:22.501 [pool-2-thread-3] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:22.501 [pool-2-thread-5] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:22.502 [pool-2-thread-10] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:22.502 [pool-2-thread-11] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:22.502 [pool-2-thread-8] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:22.502 [pool-2-thread-9] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:22.503 [pool-2-thread-12] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:48:24.502 [pool-2-thread-7] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:48:24.502 [pool-2-thread-6] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:48:24.502 [pool-2-thread-1] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:48:24.512 [pool-2-thread-10] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:48:24.512 [pool-2-thread-5] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:48:24.512 [pool-2-thread-11] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:48:24.513 [pool-2-thread-9] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:48:24.513 [pool-2-thread-8] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:48:24.513 [pool-2-thread-12] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:48:24.513 [pool-2-thread-2] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:48:24.513 [pool-2-thread-3] Port - Not enough containers to load. Current load: 0
+[WARN ] 2025-01-28 20:48:24.513 [pool-2-thread-4] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:48:26.508 [pool-2-thread-6] Port - Unloaded 1 containers to port. Current load: 1
+[INFO ] 2025-01-28 20:48:26.508 [pool-2-thread-6] Ship - Ship unloaded 1 containers and departed
+[INFO ] 2025-01-28 20:48:26.508 [pool-2-thread-7] Port - Unloaded 1 containers to port. Current load: 2
+[INFO ] 2025-01-28 20:48:26.508 [pool-2-thread-7] Ship - Ship unloaded 1 containers and departed
+[INFO ] 2025-01-28 20:48:26.508 [pool-2-thread-1] Port - Unloaded 23 containers to port. Current load: 25
+[INFO ] 2025-01-28 20:48:26.508 [pool-2-thread-1] Ship - Ship unloaded 23 containers and departed
+[INFO ] 2025-01-28 20:48:26.523 [pool-2-thread-2] Port - Unloaded 51 containers to port. Current load: 76
+[INFO ] 2025-01-28 20:48:26.523 [pool-2-thread-2] Ship - Ship unloaded 51 containers and departed
+[INFO ] 2025-01-28 20:48:26.523 [pool-2-thread-11] Port - Unloaded 1 containers to port. Current load: 77
+[INFO ] 2025-01-28 20:48:26.523 [pool-2-thread-11] Ship - Ship unloaded 1 containers and departed
+[INFO ] 2025-01-28 20:48:26.523 [pool-2-thread-5] Port - Unloaded 12 containers to port. Current load: 89
+[INFO ] 2025-01-28 20:48:26.523 [pool-2-thread-5] Ship - Ship unloaded 12 containers and departed
+[INFO ] 2025-01-28 20:48:26.523 [pool-2-thread-10] Port - Unloaded 1 containers to port. Current load: 90
+[INFO ] 2025-01-28 20:48:26.524 [pool-2-thread-10] Ship - Ship unloaded 1 containers and departed
+[INFO ] 2025-01-28 20:48:26.524 [pool-2-thread-12] Port - Unloaded 1 containers to port. Current load: 91
+[INFO ] 2025-01-28 20:48:26.524 [pool-2-thread-12] Ship - Ship unloaded 1 containers and departed
+[INFO ] 2025-01-28 20:48:26.524 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 167
+[INFO ] 2025-01-28 20:48:26.524 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:48:26.524 [pool-2-thread-3] Port - Unloaded 22 containers to port. Current load: 189
+[INFO ] 2025-01-28 20:48:26.524 [pool-2-thread-3] Ship - Ship unloaded 22 containers and departed
+[INFO ] 2025-01-28 20:48:26.524 [pool-2-thread-9] Port - Unloaded 1 containers to port. Current load: 190
+[INFO ] 2025-01-28 20:48:26.525 [pool-2-thread-9] Ship - Ship unloaded 1 containers and departed
+[INFO ] 2025-01-28 20:48:26.525 [pool-2-thread-8] Port - Unloaded 1 containers to port. Current load: 191
+[INFO ] 2025-01-28 20:48:26.525 [pool-2-thread-8] Ship - Ship unloaded 1 containers and departed
+[INFO ] 2025-01-28 20:48:28.518 [pool-2-thread-7] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:28.518 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:28.518 [pool-2-thread-6] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:28.518 [pool-2-thread-13] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:28.518 [pool-2-thread-15] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:28.518 [pool-2-thread-14] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:28.533 [pool-2-thread-10] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:28.533 [pool-2-thread-9] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:28.533 [pool-2-thread-11] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:28.533 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:28.533 [pool-2-thread-16] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:28.533 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:28.533 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:28.533 [pool-2-thread-12] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:28.533 [pool-2-thread-17] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:28.533 [pool-2-thread-8] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:28.533 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:30.531 [pool-2-thread-15] Port - Loaded 1 containers from port. Current load: 190
+[INFO ] 2025-01-28 20:48:30.531 [pool-2-thread-14] Port - Loaded 1 containers from port. Current load: 189
+[INFO ] 2025-01-28 20:48:30.531 [pool-2-thread-15] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:48:30.531 [pool-2-thread-14] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:48:30.531 [pool-2-thread-13] Port - Loaded 1 containers from port. Current load: 188
+[INFO ] 2025-01-28 20:48:30.531 [pool-2-thread-13] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:48:30.547 [pool-2-thread-17] Port - Loaded 1 containers from port. Current load: 187
+[INFO ] 2025-01-28 20:48:30.547 [pool-2-thread-17] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:48:30.547 [pool-2-thread-16] Port - Loaded 1 containers from port. Current load: 186
+[INFO ] 2025-01-28 20:48:30.547 [pool-2-thread-16] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:48:32.543 [pool-2-thread-13] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:32.543 [pool-2-thread-15] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:32.543 [pool-2-thread-14] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:32.558 [pool-2-thread-17] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:32.558 [pool-2-thread-16] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:32.558 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:48:42.584 [main] FileReader - Port capacity: 500, Dock count: 1
+[INFO ] 2025-01-28 20:48:42.590 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:48:42.591 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:48:42.591 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:48:42.591 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:48:42.591 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:48:42.591 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:42.591 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:42.592 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:42.592 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:42.592 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:42.592 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:42.592 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:42.592 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:42.592 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:42.592 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:42.593 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:42.593 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:48:42.593 [main] FileReader - Total ships created: 17
+[INFO ] 2025-01-28 20:48:42.600 [pool-2-thread-2] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:48:44.604 [pool-2-thread-2] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:48:46.614 [pool-2-thread-2] Port - Unloaded 51 containers to port. Current load: 51
+[INFO ] 2025-01-28 20:48:46.614 [pool-2-thread-2] Ship - Ship unloaded 51 containers and departed
+[INFO ] 2025-01-28 20:48:48.624 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:48.624 [pool-2-thread-1] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:50.630 [pool-2-thread-1] Port - Loaded 23 containers from port. Current load: 28
+[INFO ] 2025-01-28 20:48:50.630 [pool-2-thread-1] Ship - Ship loaded 23 containers and departed
+[INFO ] 2025-01-28 20:48:52.643 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:52.643 [pool-2-thread-5] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:48:54.657 [pool-2-thread-5] Port - Loaded 12 containers from port. Current load: 16
+[INFO ] 2025-01-28 20:48:54.657 [pool-2-thread-5] Ship - Ship loaded 12 containers and departed
+[INFO ] 2025-01-28 20:48:56.669 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:48:56.669 [pool-2-thread-4] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:48:58.680 [pool-2-thread-4] Port - Not enough containers to load. Current load: 16
+[INFO ] 2025-01-28 20:49:00.686 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 92
+[INFO ] 2025-01-28 20:49:00.686 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:49:02.696 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:49:02.696 [pool-2-thread-3] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:49:04.704 [pool-2-thread-3] Port - Loaded 22 containers from port. Current load: 70
+[INFO ] 2025-01-28 20:49:04.704 [pool-2-thread-3] Ship - Ship loaded 22 containers and departed
+[INFO ] 2025-01-28 20:49:06.718 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:49:06.718 [pool-2-thread-6] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:49:08.729 [pool-2-thread-6] Port - Loaded 1 containers from port. Current load: 69
+[INFO ] 2025-01-28 20:49:08.729 [pool-2-thread-6] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:49:10.740 [pool-2-thread-6] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:49:10.740 [pool-2-thread-7] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:49:12.749 [pool-2-thread-7] Port - Loaded 1 containers from port. Current load: 68
+[INFO ] 2025-01-28 20:49:12.749 [pool-2-thread-7] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:49:14.763 [pool-2-thread-7] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:49:14.763 [pool-2-thread-8] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:49:16.768 [pool-2-thread-8] Port - Loaded 1 containers from port. Current load: 67
+[INFO ] 2025-01-28 20:49:16.768 [pool-2-thread-8] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:49:18.780 [pool-2-thread-8] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:49:18.780 [pool-2-thread-10] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:49:20.794 [pool-2-thread-10] Port - Loaded 1 containers from port. Current load: 66
+[INFO ] 2025-01-28 20:49:20.795 [pool-2-thread-10] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:49:22.801 [pool-2-thread-10] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:49:22.801 [pool-2-thread-9] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:49:24.807 [pool-2-thread-9] Port - Loaded 1 containers from port. Current load: 65
+[INFO ] 2025-01-28 20:49:24.807 [pool-2-thread-9] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:49:26.822 [pool-2-thread-9] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:49:26.822 [pool-2-thread-11] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:49:28.826 [pool-2-thread-11] Port - Loaded 1 containers from port. Current load: 64
+[INFO ] 2025-01-28 20:49:28.826 [pool-2-thread-11] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:49:30.827 [pool-2-thread-11] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:49:30.827 [pool-2-thread-12] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:49:32.838 [pool-2-thread-12] Port - Loaded 1 containers from port. Current load: 63
+[INFO ] 2025-01-28 20:49:32.838 [pool-2-thread-12] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:49:34.845 [pool-2-thread-12] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:49:34.845 [pool-2-thread-13] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:49:36.857 [pool-2-thread-13] Port - Loaded 1 containers from port. Current load: 62
+[INFO ] 2025-01-28 20:49:36.857 [pool-2-thread-13] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:49:38.868 [pool-2-thread-13] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:49:38.868 [pool-2-thread-14] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:49:40.881 [pool-2-thread-14] Port - Loaded 1 containers from port. Current load: 61
+[INFO ] 2025-01-28 20:49:40.881 [pool-2-thread-14] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:49:42.889 [pool-2-thread-14] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:49:42.889 [pool-2-thread-17] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:49:44.897 [pool-2-thread-17] Port - Loaded 1 containers from port. Current load: 60
+[INFO ] 2025-01-28 20:49:44.897 [pool-2-thread-17] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:49:46.902 [pool-2-thread-17] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:49:46.902 [pool-2-thread-16] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:49:48.916 [pool-2-thread-16] Port - Loaded 1 containers from port. Current load: 59
+[INFO ] 2025-01-28 20:49:48.916 [pool-2-thread-16] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:49:50.931 [pool-2-thread-16] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:49:50.931 [pool-2-thread-15] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:49:52.932 [pool-2-thread-15] Port - Loaded 1 containers from port. Current load: 58
+[INFO ] 2025-01-28 20:49:52.932 [pool-2-thread-15] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:49:54.946 [pool-2-thread-15] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:49:54.946 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:51:55.758 [main] FileReader - Port capacity: 500, Dock count: 1
+[INFO ] 2025-01-28 20:51:55.766 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:51:55.766 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:51:55.766 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:51:55.767 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:51:55.767 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:51:55.767 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:51:55.767 [main] FileReader - Total ships created: 6
+[INFO ] 2025-01-28 20:51:55.773 [pool-2-thread-1] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:51:57.783 [pool-2-thread-1] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:51:59.791 [pool-2-thread-1] Port - Unloaded 23 containers to port. Current load: 23
+[INFO ] 2025-01-28 20:51:59.791 [pool-2-thread-1] Ship - Ship unloaded 23 containers and departed
+[INFO ] 2025-01-28 20:52:01.804 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:52:01.804 [pool-2-thread-2] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:52:03.818 [pool-2-thread-2] Port - Not enough containers to load. Current load: 23
+[INFO ] 2025-01-28 20:52:05.831 [pool-2-thread-2] Port - Unloaded 51 containers to port. Current load: 74
+[INFO ] 2025-01-28 20:52:05.831 [pool-2-thread-2] Ship - Ship unloaded 51 containers and departed
+[INFO ] 2025-01-28 20:52:07.840 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:52:07.840 [pool-2-thread-5] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:52:09.852 [pool-2-thread-5] Port - Loaded 12 containers from port. Current load: 62
+[INFO ] 2025-01-28 20:52:09.852 [pool-2-thread-5] Ship - Ship loaded 12 containers and departed
+[INFO ] 2025-01-28 20:52:11.861 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:52:11.861 [pool-2-thread-6] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:52:13.871 [pool-2-thread-6] Port - Loaded 1 containers from port. Current load: 61
+[INFO ] 2025-01-28 20:52:13.871 [pool-2-thread-6] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:52:15.885 [pool-2-thread-6] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:52:15.885 [pool-2-thread-4] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:52:17.897 [pool-2-thread-4] Port - Not enough containers to load. Current load: 61
+[INFO ] 2025-01-28 20:52:19.907 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 137
+[INFO ] 2025-01-28 20:52:19.907 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:52:21.918 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:52:21.918 [pool-2-thread-3] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:52:23.932 [pool-2-thread-3] Port - Loaded 22 containers from port. Current load: 115
+[INFO ] 2025-01-28 20:52:23.932 [pool-2-thread-3] Ship - Ship loaded 22 containers and departed
+[INFO ] 2025-01-28 20:52:25.940 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:52:25.940 [main] Main - Simulation finished
+[INFO ] 2025-01-28 20:57:32.053 [main] FileReader - Port capacity: 500, Dock count: 1
+[INFO ] 2025-01-28 20:57:32.060 [main] FileReader - Created ship with capacity: 23
+[INFO ] 2025-01-28 20:57:32.060 [main] FileReader - Created ship with capacity: 51
+[INFO ] 2025-01-28 20:57:32.060 [main] FileReader - Created ship with capacity: 22
+[INFO ] 2025-01-28 20:57:32.060 [main] FileReader - Created ship with capacity: 76
+[INFO ] 2025-01-28 20:57:32.060 [main] FileReader - Created ship with capacity: 12
+[INFO ] 2025-01-28 20:57:32.060 [main] FileReader - Created ship with capacity: 1
+[INFO ] 2025-01-28 20:57:32.060 [main] FileReader - Total ships created: 6
+[INFO ] 2025-01-28 20:57:32.066 [pool-2-thread-5] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:57:34.080 [pool-2-thread-5] Port - Not enough containers to load. Current load: 0
+[INFO ] 2025-01-28 20:57:36.092 [pool-2-thread-5] Port - Unloaded 12 containers to port. Current load: 12
+[INFO ] 2025-01-28 20:57:36.092 [pool-2-thread-5] Ship - Ship unloaded 12 containers and departed
+[INFO ] 2025-01-28 20:57:38.104 [pool-2-thread-5] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:57:38.104 [pool-2-thread-4] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:57:40.117 [pool-2-thread-4] Port - Not enough containers to load. Current load: 12
+[INFO ] 2025-01-28 20:57:42.122 [pool-2-thread-4] Port - Unloaded 76 containers to port. Current load: 88
+[INFO ] 2025-01-28 20:57:42.122 [pool-2-thread-4] Ship - Ship unloaded 76 containers and departed
+[INFO ] 2025-01-28 20:57:44.130 [pool-2-thread-4] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:57:44.130 [pool-2-thread-1] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:57:46.143 [pool-2-thread-1] Port - Loaded 23 containers from port. Current load: 65
+[INFO ] 2025-01-28 20:57:46.143 [pool-2-thread-1] Ship - Ship loaded 23 containers and departed
+[INFO ] 2025-01-28 20:57:48.157 [pool-2-thread-1] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:57:48.157 [pool-2-thread-2] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:57:50.171 [pool-2-thread-2] Port - Loaded 51 containers from port. Current load: 14
+[INFO ] 2025-01-28 20:57:50.171 [pool-2-thread-2] Ship - Ship loaded 51 containers and departed
+[INFO ] 2025-01-28 20:57:52.183 [pool-2-thread-2] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:57:52.183 [pool-2-thread-3] Port - Dock acquired by a ship
+[WARN ] 2025-01-28 20:57:54.197 [pool-2-thread-3] Port - Not enough containers to load. Current load: 14
+[INFO ] 2025-01-28 20:57:56.207 [pool-2-thread-3] Port - Unloaded 22 containers to port. Current load: 36
+[INFO ] 2025-01-28 20:57:56.207 [pool-2-thread-3] Ship - Ship unloaded 22 containers and departed
+[INFO ] 2025-01-28 20:57:58.215 [pool-2-thread-3] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:57:58.215 [pool-2-thread-6] Port - Dock acquired by a ship
+[INFO ] 2025-01-28 20:58:00.227 [pool-2-thread-6] Port - Loaded 1 containers from port. Current load: 35
+[INFO ] 2025-01-28 20:58:00.227 [pool-2-thread-6] Ship - Ship loaded 1 containers and departed
+[INFO ] 2025-01-28 20:58:02.239 [pool-2-thread-6] Port - Dock released by a ship
+[INFO ] 2025-01-28 20:58:02.239 [main] Main - Ship servicing completed

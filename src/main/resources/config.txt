@@ -1,0 +1,11 @@
+# Port capacity
+500
+# Number of docks
+1
+# Ship capacities
+23
+51
+22
+76
+12
+1

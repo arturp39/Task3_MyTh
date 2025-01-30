@@ -25,11 +25,13 @@ public class Main {
 
             executor.shutdown();
             try {
-                executor.awaitTermination(Long.MAX_VALUE, TimeUnit.MILLISECONDS);
+                if (!executor.awaitTermination(Long.MAX_VALUE, TimeUnit.MILLISECONDS)) {
+                    logger.warn("Executor did not terminate in expected time");
+                }
             } catch (InterruptedException e) {
                 logger.error("Executor was interrupted: {}", e.getMessage());
-            }
-        }
+                Thread.currentThread().interrupt();
+            }        }
 
         logger.info("Ship servicing completed");
     }
